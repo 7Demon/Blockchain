@@ -1,1 +1,1 @@
-this repo is experiment creating blockchain
+creating simple concept blockchain with python
